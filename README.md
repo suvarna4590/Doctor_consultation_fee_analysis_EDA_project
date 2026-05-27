@@ -3,8 +3,11 @@ This project analyzes doctor consultation fees across multiple Indian cities and
 Objectives:
 
 •	Analyze consultation fee variations across cities and specializations
+
 •	Examine the impact of experience and patient ratings on pricing
+
 •	Perform exploratory data analysis (EDA) to identify patterns and trends
+
 •	Segment healthcare services into Budget, Mid-range, and Premium categories
 
 ### Tools & Technologies:
